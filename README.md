@@ -1,4 +1,4 @@
-# AWS Networking Assignments – Comprehensive Report
+# AWS Networking – Comprehensive Report
 
 ## Overview
 
@@ -7,7 +7,7 @@ Both assignments were deployed using Amazon Linux 2023 instances and follow best
 
 ---
 
-## Assignment 1 – VPC, Bastion, and Monitoring Setup
+## VPC, Bastion, and Monitoring Setup
 
 ### Objective
 Design and deploy a **secure AWS VPC** environment with:
@@ -99,7 +99,7 @@ CloudWatch Agent is installed on **all EC2 instances** for real-time monitoring 
 
 ---
 
-## Assignment 2 – Application Load Balancer (ALB)
+## Application Load Balancer (ALB)
 
 ### Objective
 
